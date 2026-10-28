@@ -188,6 +188,14 @@ npm run dev
 
 ---
 
+## Contact
+
+프로젝트에 대한 문의, 질문, 또는 개선 아이디어가 있다면 아래 디스코드 사용자명으로 연락해 주세요.
+
+- Discord: `kooko_1`
+
+---
+
 ## Project Flow
 
 ### 1) Discord Developer Portal 접속
