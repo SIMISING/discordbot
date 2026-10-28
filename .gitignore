@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+config.json
+
+# Runtime/temporary files
+npm-debug.log*
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Generated local data
+*.sqlite
+*.sqlite3
+*.db
+
+# Optional local test artifacts
+hello.txt
